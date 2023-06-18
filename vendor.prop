@@ -1,5 +1,5 @@
 # Bluetooth
-bluetooth.device.default_name=Xperia XZ3
+bluetooth.device.default_name=Xperia XZ3(Docomo)
 
 # Display postprocessing
 vendor.display.enable_default_color_mode=1
