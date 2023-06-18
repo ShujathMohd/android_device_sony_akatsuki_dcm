@@ -13,7 +13,7 @@ DEVICE_PATH := device/sony/akatsuki_dcm
 TARGET_SCREEN_DENSITY := 480
 
 # Kernel
-TARGET_KERNEL_CONFIG := tama_akatsuki_defconfig
+TARGET_KERNEL_CONFIG := tama_akatsuki_dcm_defconfig
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
