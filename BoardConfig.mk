@@ -7,7 +7,7 @@
 # Inherit from tama-common
 -include device/sony/tama-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/sony/akatsuki
+DEVICE_PATH := device/sony/akatsuki_dcm
 
 # Display
 TARGET_SCREEN_DENSITY := 480
@@ -27,4 +27,4 @@ TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 TARGET_VENDOR_PROP += $(DEVICE_PATH)/vendor.prop
 
 # Inherit from the proprietary version
--include vendor/sony/akatsuki/BoardConfigVendor.mk
+-include vendor/sony/akatsuki_dcm/BoardConfigVendor.mk
