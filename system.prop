@@ -1,6 +1,9 @@
 # Camera
 camera.disable_zsl_mode=1
 
+# NFC
+ro.nfc.port=I2C
+
 # SEMC
 ro.semc.ms_type_id=PM-1155-BV
 ro.semc.product.device=H94
