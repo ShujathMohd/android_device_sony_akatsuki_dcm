@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "LineageOS/android_device_sony_tama-common",
+    "target_path": "device/sony/tama-common"
+    "revision": "lineage-21"
+  }
+]

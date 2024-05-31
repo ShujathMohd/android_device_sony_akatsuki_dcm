@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_akatsuki_dcm.mk
+    $(LOCAL_DIR)/bliss_akatsuki_dcm.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_akatsuki_dcm-user \
-    lineage_akatsuki_dcm-userdebug \
-    lineage_akatsuki_dcm-eng
+    bliss_akatsuki_dcm-user \
+    bliss_akatsuki_dcm-userdebug \
+    bliss_akatsuki_dcm-eng
